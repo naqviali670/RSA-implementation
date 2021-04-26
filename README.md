@@ -1,7 +1,7 @@
 # RSA-implementation
 It is the simple RSA implementation using following algorithms:
 1. Fast Modular Exponentitiation
-2. Miller-Rabin Primarily test
+2. Miller-Rabin Primarity test
 3. Chinese Remainder Theorem
 4. Extended Euclidean Algorithm
 
